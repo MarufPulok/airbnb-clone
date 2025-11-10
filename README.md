@@ -2,6 +2,8 @@
 
 A modern, full-stack vacation rental platform built with Next.js 13, TypeScript, and MongoDB. StayHub allows users to discover, book, and list unique properties around the world.
 
+🌐 **Live Demo:** [https://stay-hub-ten.vercel.app/](https://stay-hub-ten.vercel.app/)
+
 ![StayHub](https://img.shields.io/badge/StayHub-Vacation%20Rental%20Platform-FF385C?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-13-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.1-blue?style=for-the-badge&logo=typescript)
@@ -176,6 +178,8 @@ Complete booking flow with:
 - `yarn lint` - Run ESLint
 
 ## 🌐 Deployment
+
+**Live Application:** [https://stay-hub-ten.vercel.app/](https://stay-hub-ten.vercel.app/)
 
 The easiest way to deploy StayHub is using [Vercel](https://vercel.com):
 
