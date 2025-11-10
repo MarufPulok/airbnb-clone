@@ -261,7 +261,7 @@ export default function RentModal() {
       actionLabel={actionLabel}
       secondaryActionLabel={secondaryActionLabel}
       secondaryAction={step === STEPS.CATEGORY ? undefined : onBack}
-      title="Add your home to Airbnb"
+      title="Add your home to StayHub"
       body={bodyContent}
     />
   );

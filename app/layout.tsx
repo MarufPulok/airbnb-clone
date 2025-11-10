@@ -10,8 +10,8 @@ import RentModal from "./components/modals/RentModal";
 import SearchModal from "./components/modals/SearchModal";
 
 export const metadata = {
-  title: "Airbnb Clone",
-  description: "Airbnb clone is a hotel rental service.",
+  title: "StayHub",
+  description: "StayHub is a hotel rental service.",
 };
 
 const font = Nunito({
